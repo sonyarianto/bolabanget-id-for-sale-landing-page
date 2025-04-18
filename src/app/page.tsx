@@ -82,7 +82,7 @@ export default function Home() {
               </li>
             </ul>
             <p>
-              If you interested please contact Sony at{" "}
+              If you are interested, please contact Sony at{" "}
               <code className="font-mono font-medium text-gray-950 dark:text-white">
                 <a
                   href="mailto:sony@buka.sh"

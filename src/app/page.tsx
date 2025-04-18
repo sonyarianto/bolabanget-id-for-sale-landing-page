@@ -3,12 +3,9 @@ export default function Home() {
     <div className="[--pattern-fg:var(--color-gray-950)]/5 dark:[--pattern-fg:var(--color-white)]/10 relative grid min-h-screen grid-cols-[1fr_2.5rem_auto_2.5rem_1fr] grid-rows-[1fr_1px_auto_1px_1fr] bg-white dark:bg-gray-950">
       <div className="col-start-3 row-start-3 flex max-w-lg flex-col bg-gray-100 p-2 dark:bg-white/10">
         <div className="rounded-xl bg-white p-10 text-sm/7 text-gray-700 dark:bg-gray-950 dark:text-gray-300">
-          <div className="text-2xl font-bold">example.com</div>
+          <div className="text-2xl font-bold">bolabanget.id</div>
           <div className="space-y-6">
-            <p className="mt-1.5 leading-relaxed">
-              Quick description about the domain. Lorem ipsum dolor sit amet,
-              consectetur adipiscing elit.
-            </p>
+            <p className="mt-1.5 leading-relaxed">Good domain for sports news, sports community etc. Targeting huge Indonesian market.</p>
             <ul className="space-y-3">
               <li className="flex">
                 <svg
@@ -32,11 +29,11 @@ export default function Home() {
                 <p className="ml-3">
                   Price{" "}
                   <code className="font-mono font-medium text-gray-950 dark:text-white">
-                    USD 00.000
+                    USD 29.000
                   </code>{" "}
                   or{" "}
                   <code className="font-mono font-medium text-gray-950 dark:text-white">
-                    IDR 000.000.000
+                    IDR 499.000.000
                   </code>
                   .
                 </p>
@@ -85,13 +82,13 @@ export default function Home() {
               </li>
             </ul>
             <p>
-              If you interested please contact Name at{" "}
+              If you interested please contact Sony at{" "}
               <code className="font-mono font-medium text-gray-950 dark:text-white">
                 <a
-                  href="https://example.com.com"
+                  href="mailto:sony@buka.sh"
                   className="underline-offset-3 text-gray-950 underline decoration-sky-400 hover:decoration-2 dark:text-white"
                 >
-                  user@example.com
+                  sony@buka.sh
                 </a>
               </code>
             </p>
@@ -100,10 +97,10 @@ export default function Home() {
           <p className="mb-3">Other domain for sale:</p>
           <p className="font-semibold">
             <a
-              href="https://example.com"
+              href="https://bolabanget.com"
               className="underline-offset-3 text-gray-950 underline decoration-sky-400 hover:decoration-2 dark:text-white"
             >
-              example.com
+              bolabanget.com
             </a>
           </p>
         </div>
